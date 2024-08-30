@@ -1,5 +1,7 @@
 # qwen-vl-utils
 
+This repository has been archived. Future development will continue at [QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen2-VL/tree/main/qwen-vl-utils).
+
 Qwen-VL Utils contains a set of helper functions for processing and integrating visual language information with Qwen-VL Series Model.
 
 ## Install
